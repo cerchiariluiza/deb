@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 11.0.15 (Private Build)
+
+Name: .eclipseproduct
+SHA-256-Digest: uaht6Mnvl858FW6IAkMb1nfVsuMIhK+yp4HdfJzUn18=
+
+Name: readme.txt
+SHA-256-Digest: pIK187xI7K6yuzien2pUwEWVpK7YTq1yQd/bUDkIyb8=
+
+Name: licenses/dbeaver_license.txt
+SHA-256-Digest: 6z17VIVGasvYHytJb1latjfSeS4mggayfZnnk722dUk=
+
+Name: licenses/jsch-license.txt
+SHA-256-Digest: hX8l2iiwtYEBLb0zAYHW3qQh7k+POUXtIfbBRitFQEU=
+
+Name: licenses/commons_license.txt
+SHA-256-Digest: Pd+b5cKP4n2tFDpdx27qJSIq0d1ok0oEcGTlbtL6QMU=
+
+Name: licenses/eclipse_license.html
+SHA-256-Digest: 2fDhL9PLgG3f2Zpa25LWbe32xzfN5a9+tdgpyF8pr7o=
+

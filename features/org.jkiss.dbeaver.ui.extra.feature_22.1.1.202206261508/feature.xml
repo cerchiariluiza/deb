@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jkiss.dbeaver.ui.extra.feature"
+      label="%featureName"
+      version="22.1.1.202206261508"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <plugin
+         id="org.jkiss.dbeaver.ext.ui.colortheme"
+         download-size="11"
+         install-size="18"
+         version="1.0.91.202206261508"
+         unpack="false"/>
+
+   <plugin
+         id="org.jkiss.dbeaver.ext.ui.locks"
+         download-size="45"
+         install-size="86"
+         version="1.0.129.202206261508"
+         unpack="false"/>
+
+   <plugin
+         id="org.jkiss.dbeaver.tasks.ui"
+         download-size="94"
+         install-size="227"
+         version="1.0.62.202206261508"
+         unpack="false"/>
+
+   <plugin
+         id="org.jkiss.dbeaver.tasks.ui.view"
+         download-size="137"
+         install-size="378"
+         version="1.0.33.202206261508"
+         unpack="false"/>
+
+   <plugin
+         id="org.jkiss.dbeaver.tasks.native.ui"
+         download-size="48"
+         install-size="95"
+         version="1.0.62.202206261508"
+         unpack="false"/>
+
+   <plugin
+         id="org.jkiss.dbeaver.tasks.sql.ui"
+         download-size="47"
+         install-size="94"
+         version="1.0.50.202206261508"
+         unpack="false"/>
+
+   <plugin
+         id="org.jkiss.dbeaver.ext.import_config"
+         download-size="75"
+         install-size="133"
+         version="2.1.147.202206261508"
+         unpack="false"/>
+
+   <plugin
+         id="org.jkiss.dbeaver.ext.format.sqlworkbenchj"
+         download-size="17"
+         install-size="26"
+         version="1.0.91.202206261508"
+         unpack="false"/>
+
+   <plugin
+         id="org.jkiss.dbeaver.cmp.simple.ui"
+         download-size="36"
+         install-size="66"
+         version="6.0.80.202206261508"
+         unpack="false"/>
+
+   <plugin
+         id="org.jkiss.dbeaver.ui.dashboard"
+         download-size="182"
+         install-size="423"
+         version="1.0.81.202206261508"
+         unpack="false"/>
+
+</feature>
